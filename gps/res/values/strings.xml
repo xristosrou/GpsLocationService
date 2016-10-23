@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="ServiceButton">Start/Stop</string>
+    <string name="LocationButton">Show Locations</string>
+    <string name="app_name">gps</string>
+    <string name="packageName">location_provider</string>
+
+</resources>
